@@ -1,6 +1,0 @@
-#ifndef TEST_PROGRAM_DYNAMIC_LIB_H
-#define TEST_PROGRAM_DYNAMIC_LIB_H
-
-void hello();
-
-#endif //TEST_PROGRAM_DYNAMIC_LIB_H
