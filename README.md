@@ -1,2 +1,2 @@
-# c-plus-plus-basic-programming
-Basic C++ Programming
+# cpp-basic-programming
+C++ Basic Programming
